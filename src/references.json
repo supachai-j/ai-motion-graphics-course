@@ -1,0 +1,70 @@
+{
+ "refs": {
+  "R1": [
+   "Remotion — Prompting videos with coding agents",
+   "https://www.remotion.dev/docs/ai/coding-agents",
+   "Remotion",
+   "ขั้นตอน create-video, skills add, เปิด Claude Code ในโปรเจกต์"
+  ],
+  "R2": [
+   "Remotion — Agent Skills",
+   "https://www.remotion.dev/docs/ai/skills",
+   "Remotion",
+   "รายชื่อ skill (best-practices, markup, render, captions ฯลฯ)"
+  ],
+  "R3": [
+   "Remotion — The fundamentals",
+   "https://www.remotion.dev/docs/the-fundamentals",
+   "Remotion",
+   "useCurrentFrame, AbsoluteFill, composition"
+  ],
+  "R4": [
+   "Remotion — loadFont() (@remotion/google-fonts)",
+   "https://www.remotion.dev/docs/google-fonts/load-font",
+   "Remotion",
+   "โหลดฟอนต์ก่อนเรนเดอร์ และ block การเรนเดอร์จนฟอนต์พร้อม"
+  ],
+  "R5": [
+   "Remotion — CLI render",
+   "https://www.remotion.dev/docs/cli/render",
+   "Remotion",
+   "ตัวเลือก --codec (h264 เป็นค่าเริ่มต้น)"
+  ],
+  "R6": [
+   "Remotion Pro — Licensing",
+   "https://remotion.pro/license",
+   "Remotion",
+   "ฟรีสำหรับบุคคลและบริษัทไม่เกิน 3 คน; เกินนั้นต้องมี Company License"
+  ],
+  "R7": [
+   "HyperFrames (heygen-com/hyperframes)",
+   "https://github.com/heygen-com/hyperframes",
+   "HeyGen / GitHub",
+   "ทางเลือก HTML→วิดีโอ, Apache-2.0, เปิดอ่านวันที่ 10 ต.ค. 2026 พบ ~59K ดาว"
+  ],
+  "R8": [
+   "LTX-2 Community License Agreement (5 ม.ค. 2026)",
+   "https://github.com/Lightricks/LTX-2/blob/main/LICENSE-2",
+   "Lightricks",
+   "นิยาม Entity รวมบริษัทในเครือ ใช้นับเพดานรายได้; มีฉบับใหม่กว่านี้ที่ยังไม่ได้อ่านเต็ม"
+  ],
+  "R9": [
+   "Gemini API — Text-to-speech generation",
+   "https://ai.google.dev/gemini-api/docs/speech-generation",
+   "Google",
+   "โมเดล gemini-3.8-flash-tts และ gemini-3.8-flash-lite-tts"
+  ],
+  "R10": [
+   "Motion Graphics with Claude for Free (Thornelo)",
+   "https://thornelo.com/motion-graphics-with-claude/",
+   "Thornelo (บทความอิสระ)",
+   "Claude เขียนแอนิเมชันเป็นโค้ด แล้วตัวเรนเดอร์แปลงเป็น MP4; แผนฟรีไม่มี Claude Code"
+  ],
+  "R11": [
+   "FFmpeg Filters Documentation",
+   "https://ffmpeg.org/ffmpeg-filters.html",
+   "FFmpeg",
+   "drawtext, loudnorm, scale, concat ที่ใช้ในแล็บตรวจเฟรม/เสียง"
+  ]
+ }
+}
